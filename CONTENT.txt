@@ -1,1 +1,1 @@
-38126:https://raw.githubusercontent.com/titedog/Schema-Test-Plot-Script/main/Script.txt,
+38126;https://raw.githubusercontent.com/titedog/Schema-Test-Plot-Script/main/Script.txt,
